@@ -1,6 +1,6 @@
 # TLBCharacteristics
 
-1 Homework on Virtual machines course. Done by Roman Venediktov.
+1st Homework on Virtual machines course. Done by Roman Venediktov.
 
 ## Build instructions
 
